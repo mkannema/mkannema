@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahesh Kannemadugu
-- 👀 I am very internsted in machine learning,python
+- 👀 I am very internsted in machine learning,python and DataStrcture & Algorithms.
 - 🌱 I’m currently Exploring AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
